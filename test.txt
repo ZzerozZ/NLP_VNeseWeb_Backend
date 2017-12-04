@@ -1,0 +1,92 @@
+<div class="news-item-group" group-id="1" data-done="false">
+                                            <div class="news-item col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                            <div class="row">
+                                <div class="news-item-wrap">
+                                    <figure class="news-thumbnail">
+                                        <a href="http://cep.com.vn/ly-do-can-than-trong-voi-bitcoin-5469.html" title="Lý do cần thận trọng với bitcoin">
+                                            <img src="/uploads/images/img_mod/images/b6375d74-d527-11e7-ae3e-563c04c5339a.jpg" alt="Lý do cần thận trọng với bitcoin">
+                                        </a>
+                                    </figure>
+                                    <h2 class="news-title">
+                                        <a href="http://cep.com.vn/ly-do-can-than-trong-voi-bitcoin-5469.html" title="Lý do cần thận trọng với bitcoin">Lý do cần thận trọng với bitcoin</a>
+                                    </h2>
+                                    <div class="news-meta">
+                                        <span class="date"><i class="fa fa-calendar"></i>03/12/2017</span>
+                                        <span class="level"><i class="fa fa-star-o"></i>Mức trung cấp</span>
+                                    </div>
+                                    <div class="news-exceprt">Giá trị đồng đô la của bitcoin đã được tăng lên  gấp 10 kể từ đầu năm, và 30.000 kể từ ngày 1 tháng 1 năm 2011. Nhưng bitcoin đơn thuần là một loại bong bóng tài sản ẩn chứa nhiều rủi ro khó lường.</div>                                </div>
+                            </div>
+                        </div>
+                                            <div class="news-item col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                            <div class="row">
+                                <div class="news-item-wrap">
+                                    <figure class="news-thumbnail">
+                                        <a href="http://cep.com.vn/panama-su-ket-noi-tuyet-voi-5441.html" title="Panama: sự kết nối tuyệt vời">
+                                            <img src="/uploads/images/img_mod/images/TheBridgeoftheAmericas72143030PM.jpg" alt="Panama: sự kết nối tuyệt vời">
+                                        </a>
+                                    </figure>
+                                    <h2 class="news-title">
+                                        <a href="http://cep.com.vn/panama-su-ket-noi-tuyet-voi-5441.html" title="Panama: sự kết nối tuyệt vời">Panama: sự kết nối tuyệt vời</a>
+                                    </h2>
+                                    <div class="news-meta">
+                                        <span class="date"><i class="fa fa-calendar"></i>10/11/2017</span>
+                                        <span class="level"><i class="fa fa-star-o"></i>Mức trung cấp</span>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                                            <div class="news-item col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                            <div class="row">
+                                <div class="news-item-wrap">
+                                    <figure class="news-thumbnail">
+                                        <a href="http://cep.com.vn/5-cach-tieu-tien-de-kiem-tien-4739.html" title="5 cách tiêu tiền để kiếm tiền">
+                                            <img src="/uploads/images/img_mod/images/t%E1%BA%A3i_xu%E1%BB%91ng_(8).jpg" alt="5 cách tiêu tiền để kiếm tiền">
+                                        </a>
+                                    </figure>
+                                    <h2 class="news-title">
+                                        <a href="http://cep.com.vn/5-cach-tieu-tien-de-kiem-tien-4739.html" title="5 cách tiêu tiền để kiếm tiền">5 cách tiêu tiền để kiếm tiền</a>
+                                    </h2>
+                                    <div class="news-meta">
+                                        <span class="date"><i class="fa fa-calendar"></i>31/10/2017</span>
+                                        <span class="level"><i class="fa fa-star-o"></i>Mức cơ bản</span>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                                            <div class="news-item col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                            <div class="row">
+                                <div class="news-item-wrap">
+                                    <figure class="news-thumbnail">
+                                        <a href="http://cep.com.vn/o-hoa-ky-theo-ke-hoach-thue-moi-thue-doanh-nghiep-segiam-con20-5362.html" title="Ở Hoa Kỳ: Theo kế hoạch thuế mới, thuế doanh nghiệp sẽ giảm còn 20%">
+                                            <img src="/uploads/images/img_mod/images/20170926-Trump-SamiraBouaou-3014-2-700x420.jpg" alt="Ở Hoa Kỳ: Theo kế hoạch thuế mới, thuế doanh nghiệp sẽ giảm còn 20%">
+                                        </a>
+                                    </figure>
+                                    <h2 class="news-title">
+                                        <a href="http://cep.com.vn/o-hoa-ky-theo-ke-hoach-thue-moi-thue-doanh-nghiep-segiam-con20-5362.html" title="Ở Hoa Kỳ: Theo kế hoạch thuế mới, thuế doanh nghiệp sẽ giảm còn 20%">Ở Hoa Kỳ: Theo kế hoạch thuế mới, thuế doanh nghiệp sẽ giảm còn 20%</a>
+                                    </h2>
+                                    <div class="news-meta">
+                                        <span class="date"><i class="fa fa-calendar"></i>31/10/2017</span>
+                                        <span class="level"><i class="fa fa-star-o"></i>Mức cơ bản</span>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                                            <div class="news-item col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                            <div class="row">
+                                <div class="news-item-wrap">
+                                    <figure class="news-thumbnail">
+                                        <a href="http://cep.com.vn/nhungloi-ichdanh-cho-nguoi-thong-thao-songngu-lon-den-muc-nao-5292.html" title="Những lợi ích dành cho người thông thạo song ngữ lớn đến mức nào?">
+                                            <img src="/uploads/images/img_mod/images/cep_7%281%29.jpg" alt="Những lợi ích dành cho người thông thạo song ngữ lớn đến mức nào?">
+                                        </a>
+                                    </figure>
+                                    <h2 class="news-title">
+                                        <a href="http://cep.com.vn/nhungloi-ichdanh-cho-nguoi-thong-thao-songngu-lon-den-muc-nao-5292.html" title="Những lợi ích dành cho người thông thạo song ngữ lớn đến mức nào?">Những lợi ích dành cho người thông thạo song ngữ lớn đến mức nào?</a>
+                                    </h2>
+                                    <div class="news-meta">
+                                        <span class="date"><i class="fa fa-calendar"></i>28/10/2017</span>
+                                        <span class="level"><i class="fa fa-star-o"></i>Mức cơ bản</span>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                                    </div>
